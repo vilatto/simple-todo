@@ -30,8 +30,6 @@
   | || |_| | |_| | |_| |
   |_| \___/|____/ \___/
     </pre>
-    <h1>&gt; Terminal Todo</h1>
-    <p class="subtitle">A minimalist task manager for the command line aesthetic.</p>
   </header>
 
   <div class="container">
